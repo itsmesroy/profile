@@ -1,0 +1,19 @@
+.profile-box{
+    background-color: royalblue;
+    color: #fff;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 90px;
+    padding-right: 90px;
+    text-align: center;
+         
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('#');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
