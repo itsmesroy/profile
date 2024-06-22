@@ -17,3 +17,30 @@
     justify-content: center;
     align-items: center;
 }
+
+.Profile-pic{
+    border-radius: 50%;
+    width: 150px;
+    padding: 6px;
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.menu2{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+}
+
